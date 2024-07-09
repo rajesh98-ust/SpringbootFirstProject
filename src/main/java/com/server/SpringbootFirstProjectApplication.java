@@ -14,7 +14,7 @@ public class SpringbootFirstProjectApplication {
 	
 	@PostConstruct
 	public void message() {
-		log.info("Rajesh Kumar");
+		log.info("Rajesh Kumar ddd");
 	}
 
 	public static void main(String[] args) {
