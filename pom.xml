@@ -12,6 +12,7 @@
 	<artifactId>SpringbootFirstProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringbootFirstProject</name>
+	<packaging>war</packaging>
 	<description>Spring Security 3.0</description>
 	<url/>
 	<licenses>
@@ -49,6 +50,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		
 	</build>
 
 </project>
